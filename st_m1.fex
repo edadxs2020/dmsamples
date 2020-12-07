@@ -1,3 +1,5 @@
 -TYPE Hello line
 -TYPE
--TYPE PUSH to  branch1
+-TYPE PUSH to branch1 by edadxs from repo2
+-TYPE PULLed from br1
+-TYPE PUSH to branch1 by edadxs from repo1
